@@ -1,12 +1,17 @@
-.DS_Store
-
-node_modules
 
 lib/core/metadata.js
 lib/core/MetadataBlog.js
 
-website/translated_docs
-website/build/
-website/yarn.lock
-website/node_modules
-website/i18n/*
+# website/translated_docs
+# website/i18n/*
+
+# Ignored list
+
+/home/vagrant/iaw1920/docker-compose.yml
+/home/vagrant/iaw1920/Dockerfile
+/home/vagrant/iaw1920/.dockerignore
+/home/vagrant/iaw1920/.git/*
+/home/vagrant/iaw1920/yarn.lock
+/home/vagrant/iaw1920/website/node-modules/*
+/home/vagrant/iaw1920/website/package.json
+/home/vagrant/iaw1920/docker-compose.yml
