@@ -1,0 +1,10 @@
+{
+  "dinos": {
+    "aa": ["doc3", "doc2"],
+    "bb": ["doc4", "doc5"]
+  },
+  "wiki": {
+    "": ["doc4", "doc5"],
+    "carnívoro": ["doc4", "doc5"]
+  }
+}

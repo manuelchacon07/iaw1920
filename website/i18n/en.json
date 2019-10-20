@@ -3,15 +3,8 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "La mejor pagina para saber mas sobre los dinosaurios",
     "docs": {
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
-      },
-      "doc2": {
-        "title": "document number 2"
-      },
       "doc3": {
         "title": "This is document number 3"
       },
@@ -20,18 +13,30 @@
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "gigantosaurus": {
+        "title": "gigantosaurus"
+      },
+      "herrerasaurus": {
+        "title": "herrerasaurus"
+      },
+      "doc2": {
+        "title": "document number 2"
+      },
+      "velociraptor": {
+        "title": "velociraptor"
+      },
+      "wiki": {
+        "title": "DocuWiki"
       }
     },
     "links": {
-      "Docs": "Docs",
-      "API": "API",
-      "Help": "Help",
-      "Blog": "Blog"
+      "Wiki": "Wiki",
+      "Photos": "Photos",
+      "Repository": "Repository"
     },
     "categories": {
-      "Docusaurus": "Docusaurus",
-      "First Category": "First Category",
-      "Second Category": "Second Category"
+      "Carnívoro": "Carnívoro"
     }
   },
   "pages-strings": {
