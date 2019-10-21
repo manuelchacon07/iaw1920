@@ -1,7 +1,7 @@
 # Giganotosaurus
 
 
-![Giganotosaurus](/home/vagrant/iaw1920/photos/Giganotosaurus-Todd-Marshall-2.jpg)
+![Giganotosaurus](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOVUkX2KNhoHHy3knaVaKIxy6x6jd0vWkDewoyf5vd2j6sMPXr)
 
 
 ## Características

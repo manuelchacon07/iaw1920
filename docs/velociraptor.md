@@ -1,6 +1,6 @@
 # Velociraptor
 
-![Velociraptor](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOVUkX2KNhoHHy3knaVaKIxy6x6jd0vWkDewoyf5vd2j6sMPXr)
+![Velociraptor](http://4.bp.blogspot.com/-x2qB1Vm4weo/TWSow9xfX7I/AAAAAAAACHI/euqzx--SLAI/s400/velociraptor.jpg)
 
 Es un género de dinosaurios terópodos dromeosáuridos que vivieron durante el Campaniano, hacia finales delperíodo Cretácico, hace unos 75 a 71 millones de años, en lo que es hoy Asia. Tradicionalmente sólo se ha reconocido a una especie, V. mongoliensis, cuyos fósiles se han hallado en Asia Central, en Mongolia, pero una segunda especie, V. osmolskae, fue nombrada en 2008 a partir de material craneal procedente de Mongolia Interior, en China.
 

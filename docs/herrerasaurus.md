@@ -1,6 +1,6 @@
 # Herrerasaurus
 
-![Giganotosaurus](/home/vagrant/iaw1920/photos/Herrerasaurus.gif)
+![Giganotosaurus](http://vignette1.wikia.nocookie.net/dino/images/e/e0/Herrerasaurus.gif/revision/latest?cb=20120616071309&path-prefix=es)
 
 El Herrarasaurus era uno de los mayores carnívoros del Triásico, superando al Coelophysis, pero el Postosuchus era más grande, pero más lento.
 
