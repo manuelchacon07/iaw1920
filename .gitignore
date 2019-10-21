@@ -14,3 +14,4 @@ Dockerfile
 yarn.lock
 website/node-modules/*
 website/package.json
+website/build/*
