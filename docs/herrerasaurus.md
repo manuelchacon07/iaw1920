@@ -5,6 +5,8 @@
 El Herrarasaurus era uno de los mayores carnívoros del Triásico, superando al Coelophysis, pero el Postosuchus era más grande, pero más lento.
 
 
+esto es una mod
+
 ## Datos
 
 - Nombre: Herrerasaurus
@@ -14,6 +16,7 @@ El Herrarasaurus era uno de los mayores carnívoros del Triásico, superando al 
 - Altura: 1,8 metros
 - Alimentación: Carnívoro
 - Vivió: Entre hace 231 millones de años, en Argentina.
+
 
 ## Clasificación zoológica
 
